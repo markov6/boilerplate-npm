@@ -12,5 +12,6 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
-	}
+	},
+	"keywords:": ["node, express, npm, package.json", "freecodecamp"]
 }
