@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Dimitar Markov",
 	"description": "Project from FreeCodeCamp",
+	"keywords:": ["node", "express", "freecodecamp"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -12,6 +13,5 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
-	},
-	"keywords:": ["node, express, npm, package.json", "freecodecamp"]
+	}
 }
