@@ -2,7 +2,8 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Dimitar Markov",
 	"description": "Project from FreeCodeCamp",
-	"keywords:": ["node", "express", "freecodecamp"],
+	"keywords": ["node", "express", "freecodecamp"],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
