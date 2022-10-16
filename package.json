@@ -3,6 +3,7 @@
 	"author": "Dimitar Markov",
 	"description": "Project from FreeCodeCamp",
 	"keywords": ["node", "express", "freecodecamp"],
+	"version": "1.0.0",
 	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
